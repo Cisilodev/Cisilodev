@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu Perfil
 Eu sou Rafael. <br>
-E esssas são um resumo de tudo que eu faço.
+E esse e um resumo de tudo que eu faço.
 <br>
  <div>
    <a href="https://github.com/Cisilodev">
